@@ -16,7 +16,7 @@ struct RecipeListView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Hello, Recipe!")
         }
         .padding()
     }
